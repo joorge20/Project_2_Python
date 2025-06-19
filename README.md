@@ -1,3 +1,4 @@
+![](Imagenes/web.jpeg)
 # Project 2 - Python / Rayados
 
 ## Overview
